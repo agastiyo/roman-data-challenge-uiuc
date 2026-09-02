@@ -1,3 +1,3 @@
 # Roman Data Challenge
 
-## UIUC, Fa 26
+## UIUC | Fall 26
