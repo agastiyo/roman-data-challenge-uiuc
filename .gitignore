@@ -1,4 +1,8 @@
+# Directories
 /data
+/misc
+
+# Config files
 .venv
 .DS_Store
 .vscode
